@@ -12,3 +12,6 @@ Make sure to use GPU (Runtime > Change runtime type > Select Hardware accelerato
 ### Importing Dataset
 Create a folder in the root of your drive and upload the zip inside the folder\
 Unzip by executing first cell of the notebook
+
+### Output
+Ouputs 1 for dogs and 0 for cats
